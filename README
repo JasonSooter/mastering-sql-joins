@@ -1,0 +1,8 @@
+# Mastering SQL Joins
+## Dane Wade
+
+This repository contains the code and data for the Mastering SQL Joins Book
+
+## To Set up the Database using Postgres
+
+Perform a PGAdmin Restore using [master-sql-joins-seed-data-postgres](./master-sql-joins-seed-data-postgres)
